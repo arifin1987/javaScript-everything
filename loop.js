@@ -1,5 +1,5 @@
 //-------- For of loop----------
-/*
+
 const numbers = [11,23,45,34];
 const fruits = ['mango', 'banana', 'orange', 'olive']
 
@@ -10,11 +10,11 @@ for(const item of numbers){
 for(const fruit of fruits){
     console.log(fruit)
 }
-*/
+
 
 //------ While loop--------
 
-/*
+
 
 let num =0;
 while(num<5){
@@ -22,36 +22,27 @@ while(num<5){
     num++;
 }
 
-*/
 
-/*
 
-let num = 1;
-while(num <=50){
-    console.log( num)
-    num +=1;
+let num2 = 1;
+while(num2 <=50){
+    console.log( num2)
+    num2 +=1;
 }
 
-*/
-/*
 
-let num =1;
+
+
+let num3 =1;
 let sum =0;
-while(num<=10){
-    sum = sum + num;
+while(num3<=10){
+    sum = sum + num3;
     
     console.log(sum);
-    num++;
+    num3++;
     
 
 }
-*/
-/*
-let num = 1;
-while(num<= 20){
-    if(num% 2 ===0){
-        console.log(num)
-    }
-    num++;
-}
-*/
+
+
+
